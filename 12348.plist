@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://www.12348.gov.cn/sfbMobile/ios/phone/zs123481.7.3.ipa</string>
+                        <string>https://raw.githubusercontent.com/waikell/project/master/123481.0.0.ipa</string>
                     </dict>
 
                     <!-- display-image: the icon to display during download. -->
@@ -38,13 +38,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.skytech.zs12348</string>
+                    <string>io.dcloud.H507F229C</string>
                     <key>bundle-version</key>
-                    <string>1.7.3</string>
+                    <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>12348</string>
+                    <string>12348河南法网</string>
                 </dict>
             </dict>
         </array>
