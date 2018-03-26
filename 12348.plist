@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://www.12348.gov.cn/sfbMobile/ios/phone/zs123481.7.3.ipa</string>
+                    </dict>
+
+                    <!-- display-image: the icon to display during download. -->
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <!-- optional. icon needs shine effect applied. -->
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://www.12348.gov.cn/sfbMobile/ios/phone/icon.png</string>
+                    </dict>
+                    
+                    <!-- full-size-image: the large 512×512 icon used by iTunes. -->
+                    <dict>
+                        <key>kind</key>
+                        <string>full-size-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://www.12348.gov.cn/sfbMobile/ios/phone/itunes-icon.png</string>
+                    </dict>                    
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.skytech.zs12348</string>
+                    <key>bundle-version</key>
+                    <string>1.7.3</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>12348</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
