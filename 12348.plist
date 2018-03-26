@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://raw.githubusercontent.com/waikell/project/master/123481.0.0.ipa</string>
+                        <string>http://172.25.9.240:8888/zywz/upload/app/1.0.0/12348HT.ipa</string>
                     </dict>
 
                     <!-- display-image: the icon to display during download. -->
