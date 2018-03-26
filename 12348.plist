@@ -22,7 +22,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://www.12348.gov.cn/sfbMobile/ios/phone/icon.png</string>
+                        <string>http://172.25.9.240:8888/zywz/upload/app/1.0.0/icon.png</string>
                     </dict>
                     
                     <!-- full-size-image: the large 512×512 icon used by iTunes. -->
@@ -32,7 +32,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://www.12348.gov.cn/sfbMobile/ios/phone/itunes-icon.png</string>
+                        <string>http://172.25.9.240:8888/zywz/upload/app/1.0.0/itunes-icon.png</string>
                     </dict>                    
                 </array>
                 <key>metadata</key>
