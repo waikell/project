@@ -34,4 +34,6 @@ RUN chmod +x docker-entrypoint.sh
 
 RUN dos2unix $KETTLE_HOME/docker-entrypoint.sh
 
+RUN ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && echo "Asia/Shanghai" > /etc/timezone
+
 ENTRYPOINT ["/data-integration/docker-entrypoint.sh"]
